@@ -1,0 +1,34 @@
+# Node modules
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Build files
+dist/
+.vite/
+.vitepress/
+.cache/
+
+# Logs
+*.log
+*.gz
+*.zip
+
+# Editor/IDE Files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Environment Variables
+.env
+.env.local
+.env.development
+.env.production
+.env.test
+.env.*.local
+
+# MacOS & Linux
+.DS_Store
+Thumbs.db
